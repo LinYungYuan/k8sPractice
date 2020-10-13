@@ -1,1 +1,2 @@
 # k8sPractice
+kubernetes是一套部署容器化應用程式的開源編排器。
